@@ -1,0 +1,18 @@
+.header {
+    height: 90px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    background: #FF4A4A;
+}
+
+.link {
+    color: #05050F;
+}
+
+@media only screen and (max-width: 576px) {
+    .heading {
+        text-align: center;
+        font-size: 25px;
+    }
+}
